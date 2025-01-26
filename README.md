@@ -1,1 +1,1 @@
-# deploy-mern-app-1
+MERN application login and logout
